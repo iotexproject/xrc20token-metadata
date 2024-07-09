@@ -1,0 +1,23 @@
+{
+  "address": "io1k7ygts6nqkqtyy7ea98k7a5qvd7pzxdz8ykz58",
+  "name": "Iotex Niubi",
+  "description": null,
+  "logo": null,
+  "symbol": "IoNiubi",
+  "decimals": 9,
+  "total_supply": "1000000000000000000",
+  "transfer": "1",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 2,
+  "id": 88,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
