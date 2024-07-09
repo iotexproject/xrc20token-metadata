@@ -1,0 +1,23 @@
+{
+  "address": "io125ncge9vg39m4u67dl8vpa0gxwqmkdq86plm7e",
+  "name": "BZZ",
+  "description": null,
+  "logo": "https://cdn.dapp.works/users/pg-cms-116973209797536866381/10293.png",
+  "symbol": "BZZ",
+  "decimals": 16,
+  "total_supply": "124487882145920147920",
+  "transfer": "18",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 11,
+  "id": 298409213,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": true,
+  "is_official": true,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
