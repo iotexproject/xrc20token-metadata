@@ -1,0 +1,29 @@
+{
+  "address": "io1ax4fm7xhxdppt275up7zwfjnuy2muqvv43wztj",
+  "name": null,
+  "description": "Loxodrome token",
+  "logo": "https://dapptest.loxodrome.xyz/static/img/icon/tokens/LOXO.svg",
+  "symbol": null,
+  "decimals": 18,
+  "total_supply": null,
+  "transfer": null,
+  "daily_transfer": null,
+  "daily_transfer_amount": null,
+  "holders": null,
+  "id": 218941566,
+  "custom_config": {},
+  "social_media": {
+    "github": "",
+    "discord": "",
+    "twitter": "https://twitter.com/_Loxodrome",
+    "website": "https://loxodrome.xyz/",
+    "telegram": ""
+  },
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
