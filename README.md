@@ -1,0 +1,1 @@
+# xrc20token-metadata
