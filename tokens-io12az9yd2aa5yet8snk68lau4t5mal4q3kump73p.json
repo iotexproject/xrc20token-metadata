@@ -1,0 +1,23 @@
+{
+  "address": "io12az9yd2aa5yet8snk68lau4t5mal4q3kump73p",
+  "name": "testbuyandsell",
+  "description": null,
+  "logo": null,
+  "symbol": "testbuyandsell",
+  "decimals": 9,
+  "total_supply": "100000000000000000000",
+  "transfer": "16",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 5,
+  "id": 2031,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
