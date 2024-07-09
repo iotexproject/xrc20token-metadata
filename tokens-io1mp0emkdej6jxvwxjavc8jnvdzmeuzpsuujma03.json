@@ -1,0 +1,25 @@
+{
+  "address": "io1mp0emkdej6jxvwxjavc8jnvdzmeuzpsuujma03",
+  "name": "Iotex Monster Go",
+  "description": null,
+  "logo": null,
+  "symbol": "MTGO",
+  "decimals": 18,
+  "total_supply": "100000000000000000000000000",
+  "transfer": "1",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 2,
+  "id": 1510,
+  "custom_config": {
+    "circulating_supply": 0
+  },
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": "iotex-monster-go",
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
