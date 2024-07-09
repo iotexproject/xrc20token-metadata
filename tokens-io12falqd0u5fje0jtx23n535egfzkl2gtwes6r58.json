@@ -1,0 +1,33 @@
+{
+  "address": "io12falqd0u5fje0jtx23n535egfzkl2gtwes6r58",
+  "name": "Wicrypt Network Token",
+  "description": "Wicrypt is a decentralized WiFi sharing network",
+  "logo": "https://depinscan-prod.s3.amazonaws.com/depin/f053a33f8c21cebb94e4662c449b6551.png",
+  "symbol": "WNT",
+  "decimals": 18,
+  "total_supply": "143570388029348000587399",
+  "transfer": "7016",
+  "daily_transfer": "6",
+  "daily_transfer_amount": null,
+  "holders": 127,
+  "id": 185549825,
+  "custom_config": {
+    "is_bridge_assets": true,
+    "circulating_supply": "143570388029348000587399"
+  },
+  "social_media": {
+    "github": null,
+    "discord": "https://discord.gg/9dqcTSxfuZ",
+    "twitter": "https://twitter.com/wicrypt",
+    "website": "https://wicrypt.com/",
+    "telegram": "https://t.me/wicrypt",
+    "project_name": "WiCrypt"
+  },
+  "is_depin_token": true,
+  "is_official": true,
+  "daily_volume_usd": "122.0939085042991686797311739333254",
+  "total_liquidity_usd": "7424.053448200667429237976794222716",
+  "coingecko_id": "wicrypt",
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
