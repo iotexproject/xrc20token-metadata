@@ -1,0 +1,23 @@
+{
+  "address": "io10zz9yepj2cmgfpvy3wak9yekupsdd0jufgc35s",
+  "name": "IOTEXCHART Token",
+  "description": null,
+  "logo": null,
+  "symbol": "IOCHART",
+  "decimals": 9,
+  "total_supply": "1000000000000000000",
+  "transfer": "13",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 8,
+  "id": 462,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
