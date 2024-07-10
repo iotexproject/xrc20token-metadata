@@ -1,0 +1,25 @@
+{
+  "address": "io12a3wkgegk0dtp367ppxk26e59lt0cvhpyu426c",
+  "name": "Drop Wireless INfrastructure",
+  "description": null,
+  "logo": null,
+  "symbol": "DWIN",
+  "decimals": 18,
+  "total_supply": "1100000000000000000000000000",
+  "transfer": "3",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 4,
+  "id": 92945005,
+  "custom_config": {
+    "circulating_supply": 0
+  },
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": "drop-wireless-infrastructure",
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
