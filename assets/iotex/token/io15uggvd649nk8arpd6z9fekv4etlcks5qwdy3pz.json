@@ -1,0 +1,32 @@
+{
+  "address": "io15uggvd649nk8arpd6z9fekv4etlcks5qwdy3pz",
+  "name": "Drop Wireless INfrastructure",
+  "description": "Drop Wireless is predominantly dedicated to harnessing its state-of-the-art technologies to establish Decentralized Physical Infrastructure Networks (DePIN). This endeavor is geared towards ushering in captivating and engrossing applications within the upcoming era of extensive interconnectedness. Moreover, our commitment extends to furnishing tools that foster a community-centric infrastructure and ecosystem. These tools have been meticulously crafted to stimulate active involvement among individuals, facilitated by a transparent and rewarding system of incentives.",
+  "logo": "https://iotexproject.iotex.io/iotex-token-metadata/master/images/io15uggvd649nk8arpd6z9fekv4etlcks5qwdy3pz.png",
+  "symbol": "DWIN",
+  "decimals": 18,
+  "total_supply": "1100000000000000000000000000",
+  "transfer": "28868",
+  "daily_transfer": "1",
+  "daily_transfer_amount": null,
+  "holders": 1230,
+  "id": 92949905,
+  "custom_config": {
+    "circulating_supply": 0
+  },
+  "social_media": {
+    "github": null,
+    "discord": null,
+    "twitter": "https://twitter.com/dropwireless",
+    "website": "https://dropwireless.io/",
+    "telegram": "https://t.me/dropwireless",
+    "project_name": "Drop Wireless"
+  },
+  "is_depin_token": true,
+  "is_official": true,
+  "daily_volume_usd": "19.28639240642800015737798169375392",
+  "total_liquidity_usd": "8550.029517209969522840793055236894",
+  "coingecko_id": "drop-wireless-infrastructure",
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
