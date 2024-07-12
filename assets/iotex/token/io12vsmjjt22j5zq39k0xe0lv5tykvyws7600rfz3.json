@@ -1,0 +1,23 @@
+{
+  "address": "io12vsmjjt22j5zq39k0xe0lv5tykvyws7600rfz3",
+  "name": "Tetcoin",
+  "description": null,
+  "logo": null,
+  "symbol": "TET",
+  "decimals": 18,
+  "total_supply": "1000000000000000000000000000",
+  "transfer": "555",
+  "daily_transfer": "0",
+  "daily_transfer_amount": "199493576348938730000",
+  "holders": 48,
+  "id": 1442,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
