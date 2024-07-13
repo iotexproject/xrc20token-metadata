@@ -1,0 +1,23 @@
+{
+  "address": "io1etcq5krprmxnqg9jqxzfefm2xmyx8gq5p20lwg",
+  "name": "BOT",
+  "description": "Multichain ecosystem built under the UX of an NFT-based Play-To-Earn game. Unique wallet with a built in NFT Marketplace, DEX, seasonal NFT and Token AirDrops & game-based Multifunctional messenger.",
+  "logo": "https://iotexproject.iotex.io/iotex-token-metadata/master/images/io1etcq5krprmxnqg9jqxzfefm2xmyx8gq5p20lwg.png",
+  "symbol": "BOT",
+  "decimals": 18,
+  "total_supply": "3125000000000000000000000",
+  "transfer": "1",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 2,
+  "id": 924,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": true,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
