@@ -1,0 +1,23 @@
+{
+  "address": "io1009dgua7q8x63dpk95wncnp79fx9mz0ak65a6s",
+  "name": "Iotxex Token",
+  "description": null,
+  "logo": null,
+  "symbol": "IOTX",
+  "decimals": 18,
+  "total_supply": "45454545454545454545",
+  "transfer": "3",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 3,
+  "id": 1951,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
