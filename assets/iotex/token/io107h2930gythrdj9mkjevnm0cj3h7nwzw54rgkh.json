@@ -1,0 +1,29 @@
+{
+  "address": "io107h2930gythrdj9mkjevnm0cj3h7nwzw54rgkh",
+  "name": "qqq",
+  "description": "testtest11111",
+  "logo": "https://cdn-dapp-works.s3.us-east-1.amazonaws.com/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcm9tIjoiaW90ZXhzY2FuIiwidXNlcklkIjoiMHgwRkE3QkQ0MEIzMjZiZjVDRjA5NjZhYTczNTE3OTM5NDU4MTc1NDIzIiwiaWF0IjoxNjk4MzE0NjE0fQ.TZcySExjp4mzwEECB_QoYXhITd-e88ReHAoZIjYju_U/img-n6O6XoowXWr4hlymcCKyEETX.png",
+  "symbol": "qqq",
+  "decimals": 18,
+  "total_supply": "100000000000000000000000",
+  "transfer": "1",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 2,
+  "id": 115677069,
+  "custom_config": {},
+  "social_media": {
+    "github": "",
+    "discord": "",
+    "twitter": "https://twitter.com/0xPolygonLabs",
+    "website": "https://nft.mimo.exchange/",
+    "telegram": ""
+  },
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": "0",
+  "total_liquidity_usd": "0",
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
