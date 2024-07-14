@@ -1,0 +1,23 @@
+{
+  "address": "io103m3srvfer7rk45xrmnhf3tqsa8q7hfl4ureqq",
+  "name": "Unifi LP",
+  "description": null,
+  "logo": null,
+  "symbol": "uFilDA",
+  "decimals": 18,
+  "total_supply": "46984761851583831173",
+  "transfer": "28",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 7,
+  "id": 762,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
