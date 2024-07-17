@@ -1,0 +1,27 @@
+{
+  "address": "io18v4l9dfr74xyu320pz4zsmgrz9d07vnvy20yrh",
+  "name": "USD Coin",
+  "description": null,
+  "logo": "https://iotexproject.iotex.io/iotex-token-metadata/master/images/io18v4l9dfr74xyu320pz4zsmgrz9d07vnvy20yrh.png",
+  "symbol": "ioUSDC",
+  "decimals": 6,
+  "total_supply": "1646592997432",
+  "transfer": "319541",
+  "daily_transfer": "330",
+  "daily_transfer_amount": null,
+  "holders": 5822,
+  "id": 914,
+  "custom_config": {
+    "stable": true,
+    "is_bridge_assets": true,
+    "circulating_supply": "1646592997432"
+  },
+  "social_media": null,
+  "is_depin_token": false,
+  "is_official": true,
+  "daily_volume_usd": "31074.78910069709867727204961722861",
+  "total_liquidity_usd": "444703.7997855947363025852092288396",
+  "coingecko_id": "bridged-usd-coin-iotex",
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
