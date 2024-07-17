@@ -1,0 +1,23 @@
+{
+  "address": "io12wf733uz2umu9ahx8709deg4fa8tjzxtjep92d",
+  "name": "irregulars",
+  "description": null,
+  "logo": null,
+  "symbol": "REZ",
+  "decimals": 3,
+  "total_supply": "10000000000000",
+  "transfer": "4",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 4,
+  "id": 119,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
