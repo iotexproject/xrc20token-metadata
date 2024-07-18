@@ -1,0 +1,27 @@
+{
+  "address": "io129f58mgykp2dpx9qc9wt6luckqjs6zechen8uv",
+  "name": "Know to earn",
+  "description": "KNOWTOVIDEO is an AI-powered video generation platform. enabling users to create videos up to 3 minutes long by inputting keywords, questions, or scripts. The platform accommodates access through popular web3 wallets and supports email registration. It has recently expanded its user engagement through Telegram bot integration, aiming to serve a broad audience.\n\nThe platform offers two distinct video creation modes: Knowledge Mode for informative content and Story Mode for narrative-driven videos with consistent style across scenes. To cater to a global audience, KNOWTOVIDEO supports content creation in six languages: Chinese, English, Vietnamese, Russian, Spanish, and Turkish, including the generation of corresponding subtitles and voiceovers.\n\nVideos can be customized with up to 12 scenes, depending on content length, and are adaptable for different user scenarios by offering two aspect ratios: 9:16 and 16:9, along with the production of 1080P high-definition videos.\n\nKNOWTOVIDEO features AI-generated background music tailored to the emotional tone of the video content, enhancing the viewer's experience. The service is designed for a variety of uses, such as marketing, product training, educational content, and even creating engaging bedtime stories for children, with the simplicity of converting text into video content through a single click.",
+  "logo": "https://iotexproject.iotex.io/iotex-token-metadata/master/images/io129f58mgykp2dpx9qc9wt6luckqjs6zechen8uv.png",
+  "symbol": "KNOW",
+  "decimals": 18,
+  "total_supply": "1000000000000000000000000000000000",
+  "transfer": "16161",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 4891,
+  "id": 101,
+  "custom_config": {},
+  "social_media": {
+    "twitter": "https://twitter.com/knowtoearn",
+    "website": "https://www.knowtovideo.com",
+    "telegram": "https://t.me/knowtovideoEN"
+  },
+  "is_depin_token": false,
+  "is_official": true,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": [],
+  "updated_at": "2024-07-02T08:30:07.878Z"
+}
